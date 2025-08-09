@@ -1,0 +1,14 @@
+C:\Users\Rangelica\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.exe
+C:\Users\Rangelica\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.deps.json
+C:\Users\Rangelica\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.runtimeconfig.json
+C:\Users\Rangelica\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.dll
+C:\Users\Rangelica\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.pdb
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfoInputs.cache
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfo.cs
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.dll
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\refint\Empleados.dll
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.pdb
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.genruntimeconfig.cache
+C:\Users\Rangelica\source\repos\Empleados\Empleados\obj\Debug\net8.0\ref\Empleados.dll
