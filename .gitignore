@@ -10,9 +10,32 @@
 *.userosscache
 *.sln.docstates
 *.env
-# Carpeta de configuración de Visual Studio
+## Visual Studio files and folders
 .vs/
+*.suo
+*.user
+*.pdb
+*.obj
+*.o
+*.ncb
+*.vcproj.user
+*.aps
+*.bsc
+*.sbr
+*.tlog
 
+## Visual Studio Code files and folders
+.vscode/
+
+## Visual Studio project files
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# Rider files
+.idea/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
